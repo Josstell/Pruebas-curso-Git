@@ -1,0 +1,15 @@
+  margin-right: 1rem;
+  background: #a3a3a325;
+  width: 100px;
+  height: 80px;
+}
+
+.Badge__footer {
+  height: 54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #98CA3F;
+  font-weight: bold;
+  font-style: italic;
+}
